@@ -32,3 +32,5 @@ The other 2 quizzes can be accessed the same way
 Please **do not move** the ".exe" files or any associated game files from the folder where you initially installed the game. Moving these files may cause the game to not run correctly.
 
 Enjoy playing Pirates of Knowledge and have fun testing your knowledge!
+
+![image](https://github.com/EnrikMazaj/SeriousGame/assets/132377397/e5513326-bcaa-4b28-8268-750a5ec86810)
