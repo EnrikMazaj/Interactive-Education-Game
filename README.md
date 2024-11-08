@@ -34,3 +34,7 @@ Please **do not move** the ".exe" files or any associated game files from the fo
 Enjoy playing Pirates of Knowledge and have fun testing your knowledge!
 
 ![image](https://github.com/EnrikMazaj/SeriousGame/assets/132377397/e5513326-bcaa-4b28-8268-750a5ec86810)
+Quiz 1
+![image](https://github.com/user-attachments/assets/29ba3cf8-7f8a-44eb-9271-cb1285a6cc0a)
+![image](https://github.com/user-attachments/assets/98727037-fc25-4ae1-ba05-e718168dec8f)
+
